@@ -1,18 +1,18 @@
 ﻿## Presentation :
 Hi my name is Guillaume & I am a developer
 
-I'm still in school but I code & learn on my free time
+I'm at college and I code my free time and for my studies in computer science.
 
 ## Languages :
- - Javascript ( Typescript, node )
+ - Javascript ( Typescript, nodejs )
  - React ( tsx )
  - C
  - Python 
  - bash
 
 ## Goals :
- - Learn new languages 
- - Understand network
+ - Learn new languages and master C
+ - Focus more on collaborative projects
  - Make Friends
 
 ## Other things :
